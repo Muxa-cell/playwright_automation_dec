@@ -4,7 +4,7 @@
   "description": "playwrightAutomation",
   "main": "index.js",
   "scripts": {
-    "form-page": "npx playwright test tests/form-page.spec.ts"
+    "form-page": "npx playwright test form-page.spec.ts"
   },
   "keywords": [],
   "author": "",
