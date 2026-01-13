@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "playwrightAutomation",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "form-page": "npx playwright test tests/form-page.spec.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
